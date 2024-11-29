@@ -1,10 +1,14 @@
 ---
-title: "city-guide.qmd"
+title: "city guide by Till"
+author: Till
 format: html
+theme: morph
 editor: visual
 ---
 
 ## This is the ultimate city guide. Have fun!
+
+The **Passage** Cinema is very beautiful and shows *good* movies.
 
 ## Quarto
 
