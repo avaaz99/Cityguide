@@ -10,7 +10,14 @@ editor: visual
 
 The **Passage** Cinema is very beautiful and shows *good* movies.
 
-## Quarto
+## places to avoid
+
+Julian: you should definitely avoid Landungsbrücken at new years eve
+	besides that I personally would avoid Reeperbahn but thats a kind of 
+	controversial choice and depends on your decision because its a very popular 
+	famuos or infamous place to go out
+
+## quarto
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
